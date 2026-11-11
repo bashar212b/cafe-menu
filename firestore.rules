@@ -4,7 +4,7 @@ service cloud.firestore {
     // استبدل UID أدناه بمعرّف حساب الأدمن من Firebase Authentication.
     function isAdmin() {
       return request.auth != null
-        && request.auth.uid == "PUT_ADMIN_UID_HERE";
+        && request.auth.uid == "PpTmohjIhENzn46BOwquKYdTpsa2";
     }
 
     // الزوار يحتاجون قراءة المنيو فقط.

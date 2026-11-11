@@ -1,3 +1,4 @@
+import React from 'react';
 import { Coffee, Instagram } from "lucide-react";
 
 export default function Header({ cafeName }) {

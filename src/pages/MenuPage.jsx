@@ -1,3 +1,4 @@
+import React from 'react';
 import { useEffect, useMemo, useState } from "react";
 import { ArrowDown, Search, Sparkles } from "lucide-react";
 import Header from "../components/Header";
